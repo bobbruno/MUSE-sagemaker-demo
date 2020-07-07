@@ -1,0 +1,4 @@
+numpy
+tensorflow-gpu==2.2.0
+tensorflow_hub
+tensorflow-text==2.2.0
